@@ -1,6 +1,8 @@
 # 🥳 PARTYOF4: Intellimatch 
 *AI-Powered Employee Evaluation & Job Matching Dashboard*
 
+### 🏆 **2ND Place Winner - HackNcat 8.0 Spring 2025**
+
 **PARTYOF4's** *Intellimatch* is an interactive Streamlit dashboard designed for **HR managers** to evaluate employees and match them with **internal job opportunities** using AI. The application aggregates insights from self, peer, and performance reviews to build a comprehensive employee profile, which is then compared against job descriptions to provide **AI-powered job match scores**. Our application uses Google's genAI API to access their gemini 2.0 flash model to formulate employee summary profiles and employee job matching.
 
 This project was built for **North Carolina A&T State University's** spring 2025 hackathon hosted by ACM. Our team was given **Chevron's** problem statement of: You are tasked with developing a system that leverages AI for Chevron to assess employees’ skills and match them with the most suitable roles within the company. The system should analyze various data sources, such as performance reviews, project outcomes, and self-assessments, to create detailed skill profiles for each employee. It should then compare these profiles with the requirements of available roles to identify the best matches. Additionally, the system should account for soft skills by incorporating qualitative data from peer reviews and feedback.
